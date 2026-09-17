@@ -1,0 +1,6 @@
+metric,value
+mean_ref_lfc,-0.06918088665071755
+mean_shortcut_lfc,-0.06347809453989123
+max_abs_diff,0.4254351884177746
+mean_abs_diff,0.0696943593685347
+n_disagree_gt_0p5,0.0
